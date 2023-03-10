@@ -71,6 +71,10 @@ body {
 }
 
 
+.navbar-brand{
+    margin-bottom: 3px !important;
+}
+
 .navbar-brand,
 .nav-link{
   color: #fff !important;

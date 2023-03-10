@@ -148,3 +148,4 @@ C:\Users\Arlei.eduardo-PC\Documents\ESTUDOS\CURRICULO\SalesWebMvc\SalesWebMvc\Sa
 C:\Users\Arlei.eduardo-PC\Documents\ESTUDOS\CURRICULO\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\Arlei.eduardo-PC\Documents\ESTUDOS\CURRICULO\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Arlei.eduardo-PC\Documents\ESTUDOS\CURRICULO\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Arlei.eduardo-PC\Documents\ESTUDOS\CURRICULO\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\net5.0\Razor\Views\Sellers\Index.cshtml.g.cs
