@@ -13,9 +13,8 @@ a {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #593196;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -107,4 +106,8 @@ i{
 tr .salario{
     position: relative !important;
     left: 1500px !important;
+}
+
+.btn-user {
+    background-color: ##593196 !important;
 }
